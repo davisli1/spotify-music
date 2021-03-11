@@ -4,8 +4,6 @@ Hello everyone, its time to incorporate my music passion into some data science.
 
 My process will be:
 1. Cleaning Data
-2. Exploratory Data Analysis (Answering Initial Hypothesis)
-3. Data Preperation (Feature engineering)
-4. Implementing Machine Learning Models
-5. Cross-Validation
-6. Deploying Model (If I have the time)
+2. Creating Initial Set of Hypothesis to Explore
+3. Exploratory Data Analysis (Answering Initial Hypothesis)
+4. Written Report to Incorporate Other Variables
